@@ -42,6 +42,20 @@
 // alert(l);
 // alert(m);
 
+// document.write(a);
+// document.write(b);
+// document.write(c);
+// document.write(d);
+// document.write(e);
+// document.write(f);
+// document.write(g);
+// document.write(h);
+// document.write(i);
+// document.write(j);
+// document.write(k);
+// document.write(l);
+// document.write(m);
+
 // task 2
 
 let firstName = `Vitaliy`;
@@ -68,3 +82,5 @@ let mName = prompt(`Введіть ваше по-батькові`);
 let age = prompt('Скільки Вам років?');
 
 console.log(`Мене звати ` + name + ` ` + mName + ` і мені ` + age + ` років`);
+
+
