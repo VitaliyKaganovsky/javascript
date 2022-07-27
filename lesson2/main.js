@@ -2,7 +2,10 @@
 
 // let array = [21,`volvo`, false, 3.14, `name`, [22, `member`], `task`, -1, `phone`, 43.54]
 //
-// console.log(array);
+// for (let i = 0; i < array.length; i++) {
+//     const elementOfArray = array[i];
+//     console.log(array[i]);
+// }
 
 // task 2
 
