@@ -79,8 +79,9 @@ console.log(typeof c);
 
 let name = prompt(`Введіть Ваше імя`);
 let mName = prompt(`Введіть ваше по-батькові`);
-let age = prompt('Скільки Вам років?');
+let age = +prompt('Скільки Вам років?');
 
 console.log(`Мене звати ` + name + ` ` + mName + ` і мені ` + age + ` років`);
+console.log(typeof age);
 
 
